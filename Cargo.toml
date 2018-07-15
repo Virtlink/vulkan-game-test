@@ -1,0 +1,7 @@
+[package]
+name = "vulkan-game-test"
+version = "0.1.0"
+authors = ["Virtlink <647530+Virtlink@users.noreply.github.com>"]
+
+[dependencies]
+ash = "0.24.3"
