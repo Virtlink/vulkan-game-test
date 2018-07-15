@@ -5,3 +5,4 @@ authors = ["Virtlink <647530+Virtlink@users.noreply.github.com>"]
 
 [dependencies]
 ash = "0.24.3"
+winit = "0.16.2"
